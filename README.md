@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marek Weis from MUT in Warsaw
+- 👀 I’m interested in Python, GIS and ANN
+- 🌱 I’m currently improving my skills
+- 📫 How to reach me - via e-mail
